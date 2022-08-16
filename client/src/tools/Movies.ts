@@ -2,10 +2,9 @@ import LinkAPI from "./LinkAPI";
 
 const funcs = {
     searchByName: (name: String)=>{
-        fetch(LinkAPI+'&s=spider man')
+        return fetch(LinkAPI+'&s='+name)
 
         .then(res=>res.json())
-        .then(res=>console.log(res))
     }
 }
 
