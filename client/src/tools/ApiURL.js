@@ -1,1 +1,0 @@
-export default "http://www.omdbapi.com/?i=tt3896198&apikey=a1d438bf"
