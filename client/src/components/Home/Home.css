@@ -1,0 +1,17 @@
+#app_title{
+    text-align: center;
+}
+
+#movie_name_search {
+    margin-top: 20px;
+}
+
+#movie_name_search input{
+    width: 80vw;
+    margin-left: 10vw;
+}
+
+#movie_name_search button {
+    width: 80vw;
+    margin-left: 10vw;
+}
